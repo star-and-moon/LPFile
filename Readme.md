@@ -2,4 +2,4 @@
 
 **Hello,World**
 
-			--LPFile developer team
+		--LPFile Developer Team
