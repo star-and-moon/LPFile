@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LPFile</string>
+    <string name="add_server">Add New Server</string>
+    <string name="server_addres">Server Address</string>
+    <string name="sure">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>
